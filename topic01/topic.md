@@ -1,3 +1,3 @@
-# Typescript Language.
+# Docker.
  
-A crash course on the Typescript language from a Javascript developer's perspective.
+The platform to build, share, run, and verify applications anywhere — without tedious environment configuration or management
